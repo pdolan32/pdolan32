@@ -12,7 +12,7 @@
 
   ⚙️ **Technical Skills: Python and Excel**
 
-  📁 ** Click [Here]() to access my portfolio**
+  📁 ** Click [HERE]() to access my portfolio**
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
