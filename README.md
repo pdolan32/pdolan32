@@ -1,6 +1,8 @@
-# Hi there! My name is Patrick 👋
+## Hi there! My name is Patrick 👋
 
-## I am a student in Intro to Data Science
+### About Me 
+
+  I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications.
 
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
