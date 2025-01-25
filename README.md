@@ -2,11 +2,11 @@
 
 ### I am a student in Intro to Data Science
 
-  📍 **New Jersey, USA** 
-  🏫 **Student at the University of Notre Dame**
-  📝 **Major in Economics, Minors in Data Science and Sociology
-  📧 **Email: pdolan5@nd.edu**
-  🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)
+  📍 **New Jersey, USA**   
+  🏫 **Student at the University of Notre Dame**   
+  📝 **Major in Economics, Minors in Data Science and Sociology   
+  📧 **Email: pdolan5@nd.edu**    
+  🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
 
 My technical skills include:
 - Python
