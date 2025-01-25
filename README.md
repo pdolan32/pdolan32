@@ -10,9 +10,7 @@
   📧 **Email: pdolan5@nd.edu**    
   🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
 
-My technical skills include:
-- Python
-- Excel
+  ⚙️ **Technical Skills: Python and Excel**
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
