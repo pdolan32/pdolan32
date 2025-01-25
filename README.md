@@ -1,6 +1,6 @@
 ## Hi there! My name is Patrick 👋
 
-### About Me 
+### About Me: 
 
   I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications.
 
@@ -11,6 +11,8 @@
   🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
 
   ⚙️ **Technical Skills: Python and Excel**
+
+  📁 ** Click [Here]() to access my portfolio**
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
