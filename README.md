@@ -6,11 +6,11 @@
 
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
-  📝 **Major in Economics, Minors in Data Science and Sociology   
+  📝 **Major in Economics, Minors in Data Science and Sociology**   
   📧 **Email: pdolan5@nd.edu**    
   🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
 
-  ⚙️ **Technical Skills: Python and Excel**
+  ⚙️ **Technical Skills:** Python and Excel
 
   📁 ** Click [HERE]() to access my portfolio**
 
