@@ -12,7 +12,7 @@
 
   ⚙️ **Technical Skills:** Python and Excel
 
-  📁 ** Click [HERE]() to access my portfolio**
+  📁 ** Click [HERE](https://github.com/pdolan32/DOLAN-Data-Science-Portfolio) to access my portfolio**
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
