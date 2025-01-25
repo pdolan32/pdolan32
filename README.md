@@ -1,6 +1,6 @@
-## Hi there! My name is Patrick 👋
+# Hi there! My name is Patrick 👋
 
-### I am a student in Intro to Data Science
+## I am a student in Intro to Data Science
 
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
