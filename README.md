@@ -1,6 +1,10 @@
 ## Hi there! My name is Patrick 👋
 
-##### I am a junior at the University of Notre Dame majoring in Economics with minors in Data Science and Sociology.
+#### I am a junior at the University of Notre Dame majoring in Economics with minors in Data Science and Sociology.
+
+#### My Skills include:
+- Python
+- Excel
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
