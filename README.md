@@ -2,7 +2,7 @@
 
 #### I am a junior at the University of Notre Dame majoring in Economics with minors in Data Science and Sociology.
 
-#### My Skills include:
+#### My technical skills include:
 - Python
 - Excel
 
