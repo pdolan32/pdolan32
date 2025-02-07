@@ -4,7 +4,7 @@
 
   I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications. By the end of this semester, I hope to learn...
 
-  This semester, I am currently working on...
+  This semester, I am currently working on creating projects with Streamlit. So far, I have created a basic app using Streamlit that provides data on the top songs on Spotify on 2/6/25.
 
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
