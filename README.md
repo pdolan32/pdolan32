@@ -2,7 +2,7 @@
 
 ### About Me: 
 
-  I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications. By the end of this semester, I hope to learn...
+  I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications. By the end of this semester, I aim to learn the necessary skills and strategies to effectively communicate key data insights through visuals and narratives.
 
   This semester, I am currently working on creating projects with Streamlit. So far, I have created a basic app using Streamlit that provides data on the top songs on Spotify on 2/6/25.
 
