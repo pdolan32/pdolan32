@@ -10,7 +10,7 @@
   🏫 **Student at the University of Notre Dame**   
   📝 **Major in Economics, Minors in Data Science and Sociology**   
   📧 **Email: pdolan5@nd.edu**    
-  🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
+  🔗 **LinkedIn:** [Patrick Dolan](https://www.linkedin.com/in/patrick-dolan-7923412a9/)
 
   ⚙️ **Technical Skills:** Python, Excel, and Salesforce
 
