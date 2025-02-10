@@ -12,7 +12,7 @@
   📧 **Email: pdolan5@nd.edu**    
   🔗 **LinkedIn:** [Patrick Dolan](www.linkedin.com/in/patrick-dolan-7923412a9)    
 
-  ⚙️ **Technical Skills:** Python and Excel
+  ⚙️ **Technical Skills:** Python, Excel, and Salesforce
 
   📁 **Click [HERE](https://github.com/pdolan32/DOLAN-Data-Science-Portfolio) to access my portfolio**
 
