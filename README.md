@@ -14,7 +14,7 @@ Expected Course Completion: [05/2025]
 
 Aspiring data scientist with a growing interest in data-driven storytelling and analytical tools. Currently enrolled in an introductory data science course focused on building core competencies in data analysis, visualization, and communication. Developing technical skills in Python and exploring modern tools such as Streamlit to enhance data presentation and interactivity.
 
-### Techinical Skills:
+## Techinical Skills:
 
 **Programming Languages:**
 - Python (v. 3.12.7)
