@@ -1,4 +1,4 @@
-## Hi there! My name is Patrick 👋
+# Hi there! My name is Patrick 👋
 
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
@@ -6,7 +6,7 @@
   📧 **Email: pdolan5@nd.edu**    
   🔗 **LinkedIn:** [Patrick Dolan](https://www.linkedin.com/in/patrick-dolan-7923412a9/)
 
-### About Me: 
+## Personal Overview
 
 Undergraduate Data Science Student | Intro to Data Science, University of Notre Dame
 
