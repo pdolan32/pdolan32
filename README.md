@@ -1,20 +1,42 @@
 ## Hi there! My name is Patrick 👋
 
-### About Me: 
-
-  I am a student enrolled in the Intro to Data Science course who is interested in learning more about data science practices and applications. By the end of this semester, I aim to learn the necessary skills and strategies to effectively communicate key data insights through visuals and narratives. I also hope to continue to develop my technical skills, such as my proficiency with Python, as well as to learm more about new, useful programs like Tableau.
-
-  This semester, I am currently working on creating projects with Streamlit. So far, I have created a basic app using Streamlit that showcases the top ten most-streamed songs on Spotify for February 6th, 2025.
-
   📍 **New Jersey, USA**   
   🏫 **Student at the University of Notre Dame**   
   📝 **Major in Economics, Minors in Data Science and Sociology**   
   📧 **Email: pdolan5@nd.edu**    
   🔗 **LinkedIn:** [Patrick Dolan](https://www.linkedin.com/in/patrick-dolan-7923412a9/)
 
-  ⚙️ **Technical Skills:** Python, Excel, and Salesforce
+### About Me: 
 
-  📁 **Click [HERE](https://github.com/pdolan32/DOLAN-Data-Science-Portfolio) to access my portfolio**
+Undergraduate Data Science Student | Intro to Data Science, University of Notre Dame
+
+Expected Course Completion: [05/2025]
+
+Aspiring data scientist with a growing interest in data-driven storytelling and analytical tools. Currently enrolled in an introductory data science course focused on building core competencies in data analysis, visualization, and communication. Developing technical skills in Python and exploring modern tools such as Streamlit to enhance data presentation and interactivity.
+
+### Techinical Skills:
+
+**Programming Languages:**
+- Python (v. 3.12.7)
+
+**Data Manipulation & Analysis:**
+- Pandas: DataFrames, filtering, reshaping, and aggregation
+- NumPy: numerical computing and array operations
+
+**Data Visualization:**
+- Matplotlib: foundational plotting and charting
+- Seaborn: statistical visualizations with enhanced aesthetics
+
+**Machine Learning & Modeling:**
+- Scikit-learn: regression, classification, clustering, and model evaluation
+
+**App & Dashboard Development:**
+- Streamlit: prototyping of interactive data apps
+
+**Development Tools:**
+- Jupyter Notebooks: interactive coding, documentation, and visualization
+- Git & GitHub: version control, project sharing, and collaboration
+- Kaggle Datasets: practice datasets and project inspiration
 
 <!--
 **pdolan32/pdolan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
