@@ -16,7 +16,7 @@ Aspiring data scientist with a growing interest in data-driven storytelling and 
 
 ## Techinical Skills
 
-### Below is a list of my technical skills relevant to data science. Please consult my pinned repositories to see some of these skills put to action in my supervised and unsupervised machine learning application projects.
+#### Below is a list of my technical skills relevant to data science. Please consult my pinned repositories to see some of these skills put to action in my supervised and unsupervised machine learning application projects.
 
 **Programming Languages:**
 - Python (v. 3.12.7)
